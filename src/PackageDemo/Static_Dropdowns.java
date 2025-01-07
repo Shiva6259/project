@@ -53,7 +53,7 @@ public class Static_Dropdowns {
 //	System.out.println(driver.findElement(By.cssSelector("input[id*='IndArm']")).isSelected());
 //	System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
 //	Assert.assertTrue(driver.findElement(By.cssSelector("input[id*='IndArm']")).isSelected());	
-	driver.quit();
+//	driver.quit();
 	}
 
 }
